@@ -1,0 +1,1 @@
+# Revoking-access-and-Disabling-permissions-in-Entra-ID
