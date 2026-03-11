@@ -45,7 +45,6 @@ Navigate to **Microsoft Entra ID → Users** and locate the account that require
 
 Select the target user from the list to open the user management panel.
 
-![Locate User](images/step1_users.png)
 
 ---
 
@@ -55,7 +54,6 @@ Within the user's profile page, locate the **Revoke Sessions** option.
 
 Selecting this option invalidates all currently active authentication tokens associated with the user.
 
-![Revoke Sessions](images/step2_revoke_sessions.png)
 
 ---
 
@@ -65,8 +63,6 @@ A confirmation prompt will appear asking if you want to revoke all active sessio
 
 Select **Yes** to confirm.
 
-![Confirm Revocation](images/step3_confirm_revoke.png)
-
 After confirmation, the user will be required to reauthenticate on all devices.
 
 ---
@@ -74,8 +70,6 @@ After confirmation, the user will be required to reauthenticate on all devices.
 ## Step 4: Access User Properties
 
 Next, navigate to the user's profile and review the available configuration options.
-
-![User Profile](images/step4_user_profile.png)
 
 The **Properties** section contains settings related to the user's account status.
 
@@ -87,7 +81,6 @@ Scroll down to the **Settings** section and locate **Account Enabled**.
 
 Uncheck **Account Enabled** to disable the account.
 
-![Disable Account](images/step5_disable_account.png)
 
 Once disabled, the user will no longer be able to sign into Microsoft services.
 
